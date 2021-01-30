@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/viatick-test/static/css/main.deeca5e9.chunk.css",
+    "main.js": "/viatick-test/static/js/main.0817c310.chunk.js",
+    "main.js.map": "/viatick-test/static/js/main.0817c310.chunk.js.map",
+    "runtime-main.js": "/viatick-test/static/js/runtime-main.b970ab39.js",
+    "runtime-main.js.map": "/viatick-test/static/js/runtime-main.b970ab39.js.map",
+    "static/css/2.31ff0196.chunk.css": "/viatick-test/static/css/2.31ff0196.chunk.css",
+    "static/js/2.0bf81587.chunk.js": "/viatick-test/static/js/2.0bf81587.chunk.js",
+    "static/js/2.0bf81587.chunk.js.map": "/viatick-test/static/js/2.0bf81587.chunk.js.map",
+    "static/js/3.ff2c26a9.chunk.js": "/viatick-test/static/js/3.ff2c26a9.chunk.js",
+    "static/js/3.ff2c26a9.chunk.js.map": "/viatick-test/static/js/3.ff2c26a9.chunk.js.map",
+    "index.html": "/viatick-test/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/viatick-test/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.deeca5e9.chunk.css.map": "/viatick-test/static/css/main.deeca5e9.chunk.css.map",
+    "static/js/2.0bf81587.chunk.js.LICENSE.txt": "/viatick-test/static/js/2.0bf81587.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b970ab39.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.0bf81587.chunk.js",
+    "static/css/main.deeca5e9.chunk.css",
+    "static/js/main.0817c310.chunk.js"
+  ]
+}
